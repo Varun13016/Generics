@@ -1,0 +1,14 @@
+C:\Users\VARUN KUMAR\source\repos\MaximumProblem-UC1\MaximumProblem-UC1\bin\Debug\netcoreapp3.1\MaximumProblem-UC1.exe
+C:\Users\VARUN KUMAR\source\repos\MaximumProblem-UC1\MaximumProblem-UC1\bin\Debug\netcoreapp3.1\MaximumProblem-UC1.deps.json
+C:\Users\VARUN KUMAR\source\repos\MaximumProblem-UC1\MaximumProblem-UC1\bin\Debug\netcoreapp3.1\MaximumProblem-UC1.runtimeconfig.json
+C:\Users\VARUN KUMAR\source\repos\MaximumProblem-UC1\MaximumProblem-UC1\bin\Debug\netcoreapp3.1\MaximumProblem-UC1.runtimeconfig.dev.json
+C:\Users\VARUN KUMAR\source\repos\MaximumProblem-UC1\MaximumProblem-UC1\bin\Debug\netcoreapp3.1\MaximumProblem-UC1.dll
+C:\Users\VARUN KUMAR\source\repos\MaximumProblem-UC1\MaximumProblem-UC1\bin\Debug\netcoreapp3.1\MaximumProblem-UC1.pdb
+C:\Users\VARUN KUMAR\source\repos\MaximumProblem-UC1\MaximumProblem-UC1\obj\Debug\netcoreapp3.1\MaximumProblem-UC1.csproj.AssemblyReference.cache
+C:\Users\VARUN KUMAR\source\repos\MaximumProblem-UC1\MaximumProblem-UC1\obj\Debug\netcoreapp3.1\MaximumProblem-UC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARUN KUMAR\source\repos\MaximumProblem-UC1\MaximumProblem-UC1\obj\Debug\netcoreapp3.1\MaximumProblem-UC1.AssemblyInfoInputs.cache
+C:\Users\VARUN KUMAR\source\repos\MaximumProblem-UC1\MaximumProblem-UC1\obj\Debug\netcoreapp3.1\MaximumProblem-UC1.AssemblyInfo.cs
+C:\Users\VARUN KUMAR\source\repos\MaximumProblem-UC1\MaximumProblem-UC1\obj\Debug\netcoreapp3.1\MaximumProblem-UC1.csproj.CoreCompileInputs.cache
+C:\Users\VARUN KUMAR\source\repos\MaximumProblem-UC1\MaximumProblem-UC1\obj\Debug\netcoreapp3.1\MaximumProblem-UC1.dll
+C:\Users\VARUN KUMAR\source\repos\MaximumProblem-UC1\MaximumProblem-UC1\obj\Debug\netcoreapp3.1\MaximumProblem-UC1.pdb
+C:\Users\VARUN KUMAR\source\repos\MaximumProblem-UC1\MaximumProblem-UC1\obj\Debug\netcoreapp3.1\MaximumProblem-UC1.genruntimeconfig.cache
